@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ub3rb3457.github.io/</id>
+    <title>GrayMatterF0rge</title>
+    <updated>2021-08-12T14:44:58.993Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://ub3rb3457.github.io/"/>
+    <link rel="self" href="https://ub3rb3457.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to building Apps the b3457 way]]></title>
+        <id>https://ub3rb3457.github.io/2021/08/11/getting-started/</id>
+        <link href="https://ub3rb3457.github.io/2021/08/11/getting-started/">
+        </link>
+        <updated>2021-08-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[firebase ...]]></summary>
+    </entry>
+</feed>

@@ -1,0 +1,15 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GrayMatterF0rge",
+    "home_page_url": "https://ub3rb3457.github.io/",
+    "feed_url": "https://ub3rb3457.github.io/feed.json",
+    "items": [
+        {
+            "id": "https://ub3rb3457.github.io/2021/08/11/getting-started/",
+            "url": "https://ub3rb3457.github.io/2021/08/11/getting-started/",
+            "title": "An Introduction to building Apps the b3457 way",
+            "summary": "firebase ...",
+            "date_modified": "2021-08-11T00:00:00.000Z"
+        }
+    ]
+}
